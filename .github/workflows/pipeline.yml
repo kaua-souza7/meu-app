@@ -2,7 +2,7 @@ name: Minha pipeline
 
 on:
    push:
-     branches; [main]
+     branches: [main]
 
 jobs:
    build-e-teste:
